@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Manish 👋  
+Aspiring Data Analyst | Power BI Enthusiast | SQL Explorer | Business-Minded Thinker
 
-<!--
-**Manish-Kaushik21/Manish-Kaushik21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Post-Graduation in Strategic Global Business Management (Business Data Analysis)  
+📊 Projects in Power BI | Excel | SQL | Business Strategy  
+🎯 Currently pursuing IBM Data Analyst & Google Data Analytics Certifications  
+🇨🇦 Based in Toronto | Open to opportunities in Data & Business Analysis
 
-Here are some ideas to get you started:
+## 🧰 Tools & Skills
+- **Languages:** SQL, Excel, Python (learning)
+- **BI Tools:** Power BI, Tableau (basic)
+- **Data Analysis:** Excel, Power Query, DAX, Power BI visuals
+- **Soft Skills:** Critical Thinking, Communication, Strategic Decision Making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+Check my pinned repos below!
+
+## 📬 Reach Out
+- [LinkedIn](https://www.linkedin.com/in/manishkaushik425/)
